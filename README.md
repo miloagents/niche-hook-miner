@@ -1,10 +1,11 @@
 # Niche Hook Miner
 
-Validate a short-video niche before you shoot, then write hooks that survive the first 1.5 seconds.
+> **How can you validate a short-video niche before spending weeks making content? By computing a true hit rate with a non-zero denominator.**
+> This skill scores a niche against four signals (small-account breakout rate, HHI creator concentration, demand freshness, and format gaps) to output a verdict: BLUE OCEAN, CONTESTED, or RED OCEAN.
+> It then drafts 10 hooks across six structures (negative, contrarian, curiosity gap, callout, result-first, warning). Last updated 2026-10-08.
 
-Scores a niche against four signals, in priority order: **small-account breakout rate** (the share of recent viral posts from accounts under 100K followers), **creator concentration** (HHI across the top accounts), **demand freshness** (are the top posts from the last 30 days, or are the same older videos still ranking) and **format gaps** (formats the niche's leaders are not using yet). Returns a verdict of BLUE OCEAN / CONTESTED / RED OCEAN.
-
-It then generates 10 hooks across six proven structures — negative, contrarian, curiosity gap, callout, result-first and warning — each labelled with the structure used, and closes with one recommended first video: format, hook and a three-beat outline.
+**Full Documentation & Web Edition:** [https://miloagents.shop/skills/niche-hook-miner/](https://miloagents.shop/skills/niche-hook-miner/)  
+**Free Starter Kit:** [https://miloagents.shop/kits/](https://miloagents.shop/kits/)
 
 ## What is in this repository
 
